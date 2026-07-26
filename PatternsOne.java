@@ -7,8 +7,6 @@ public class PatternsOne {
         System.out.println("enter the number of rows and columns");
         n = sc.nextInt();
         for(int i=0;i<n;i++){
-        n = sc.nextInt();
-          
             for(int j=0;j<n;j++){
               
                 System.out.print(" * ");
