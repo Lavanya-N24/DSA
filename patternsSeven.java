@@ -21,4 +21,8 @@ public class patternsSeven {
         sc.close();
     }
 }
+
+
+
+
     
