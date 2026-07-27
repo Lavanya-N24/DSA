@@ -1,4 +1,7 @@
-
+// 1 
+// 0 1 
+// 1 0 1 
+// 0 1 0 1 
 import java.util.Scanner;
 public class patternEleven {
     public static void main(String[] args) {

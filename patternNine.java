@@ -1,3 +1,10 @@
+//    *
+//   ***
+//  *****
+// *******
+//  *****
+//   ***
+//    *
 import java.util.Scanner;
 public class patternNine {
     public static void main(String[] args) {

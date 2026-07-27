@@ -1,3 +1,10 @@
+// *
+// **
+// ***
+// ****
+// ***
+// **
+// *
  import java.util.Scanner;
 public class patternTen {
     public static void main(String[] args) {
