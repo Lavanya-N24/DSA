@@ -1,4 +1,7 @@
-
+//  *  *  *  * 
+//  *  *  *  * 
+//  *  *  *  * 
+//  *  *  *  * 
 //Pattern 1-4*4 star pattern
 import java.util.Scanner;
 public class PatternsOne {
