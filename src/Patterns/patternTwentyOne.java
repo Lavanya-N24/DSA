@@ -1,4 +1,7 @@
-
+// ****
+// *  *
+// *  *
+// ****
     import java.util.Scanner;
 public class patternTwentyOne {
     public static void main(String[] args) {
