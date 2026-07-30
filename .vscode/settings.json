@@ -1,6 +1,8 @@
 {
     "java.project.sourcePaths": [
-        "src"
+        "src",
+        "Patterns"
     ],
-    "java.project.referencedLibraries": []
+    "java.project.referencedLibraries": [],
+    "java.debug.settings.onBuildFailureProceed": true
 }
