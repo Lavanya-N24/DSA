@@ -1,4 +1,4 @@
-
+package Patterns;
 //patterns 4
 //* * * * * 
 //* * * * 

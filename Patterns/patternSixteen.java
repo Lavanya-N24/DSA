@@ -1,4 +1,4 @@
-
+package Patterns;
 // A 
 // B B 
 // C C C 
