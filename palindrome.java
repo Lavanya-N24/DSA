@@ -10,13 +10,19 @@ public class palindrome {
             reverse=reverse*10+digit;
             x=x/10;
         }
-        return original==reverse;
+        if(original==reverse){
+            return true;
+        }
+        else{
+            return false;
+        }
+        
 }
 
 public static void main(String args[]){
-    int x=121;
+    int x=123;
     palindrome p=new palindrome();
     boolean result=p.isPalindrome(x);
-    System.out.println("Is the number a palindrome? " + result);
+    System.out.println("Is the number a palindrome: "+ result);
 }
 }
