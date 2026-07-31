@@ -9,6 +9,7 @@ public class countAllNumber {
             n =n/10; // Remove the last digit
             count++; // Increment the count
         }
+    
 
         System.out.println("The number of digits in the given number is: " + count);
     }
