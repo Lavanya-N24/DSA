@@ -12,10 +12,11 @@ public class printNameNTimes {
     public static void main(String[] args) {
         String name = "lavanya";
         int n = 5;
-
-        printName(name, n);
+        
+    printName(name, n);
     }
 }
+
 
 
     
