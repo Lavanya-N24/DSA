@@ -3,32 +3,38 @@ package Sorting;
 public class QuickSort {
    
 
+  
+
     static void quickSort(int[] arr, int low, int high) {
 
         if (low < high) {
 
-            int pivotIndex = partition(arr, low, high);
+            int pivot = partition(arr, low, high);
 
-            // Sort left part
-            quickSort(arr, low, pivotIndex - 1);
+            quickSort(arr, low, pivot - 1);
 
-            // Sort right part
-            quickSort(arr, pivotIndex + 1, high);
+            quickSort(arr, pivot + 1, high);
         }
     }
 
     static int partition(int[] arr, int low, int high) {
 
-        int pivot = arr[high];
+        int pivot = arr[low];
 
-        int i = low - 1;
+        int i = low;
+        int j = high;
 
-        for (int j = low; j < high; j++) {
+        while (i < j) {
 
-            if (arr[j] < pivot) {
-
+            while (i <= high && arr[i] <= pivot) {
                 i++;
+            }
 
+            while (j >= low && arr[j] > pivot) {
+                j--;
+            }
+
+            if (i < j) {
                 int temp = arr[i];
                 arr[i] = arr[j];
                 arr[j] = temp;
@@ -36,22 +42,21 @@ public class QuickSort {
         }
 
         // Put pivot in correct position
-        int temp = arr[i + 1];
-        arr[i + 1] = arr[high];
-        arr[high] = temp;
+        int temp = arr[low];
+        arr[low] = arr[j];
+        arr[j] = temp;
 
-        return i + 1;
+        return j;
     }
 
     public static void main(String[] args) {
 
-        int[] arr = {13, 46, 24, 52, 20, 9};
+        int[] arr = {4, 6, 2, 5, 7, 9, 1, 3};
 
         quickSort(arr, 0, arr.length - 1);
 
-        for (int num : arr) {
-            System.out.print(num + " ");
+        for (int x : arr) {
+            System.out.print(x + " ");
         }
     }
 }
-
