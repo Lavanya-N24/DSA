@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Lavanya-N24/DSA/tree/master/0039-combination-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavanya-N24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lavanya-N24/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Dynamic Programming
 |  |
 | ------- |
