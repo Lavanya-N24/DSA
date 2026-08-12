@@ -1,4 +1,4 @@
-
+package Arrays;
     class Solution7 {
     public boolean isPrime(int n) {
           //your code goes here

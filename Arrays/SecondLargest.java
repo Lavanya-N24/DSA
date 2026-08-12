@@ -1,3 +1,4 @@
+package Arrays;
 public class SecondLargest {
     public static int findSecondlargest(int[] arr){
         if(arr.length<2){

@@ -1,4 +1,4 @@
-
+package Arrays;
     class Solution6 {
     public boolean isArmstrong(int n) {
         int temp=n;

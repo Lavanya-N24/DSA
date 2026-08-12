@@ -1,4 +1,5 @@
-//left rotate an array by one place
+
+package Arrays;//left rotate an array by one place
 public class LeftRotate {
   
     public void rotateArrayByOne(int[] nums) {

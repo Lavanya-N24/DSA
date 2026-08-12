@@ -1,4 +1,4 @@
-
+package Arrays;
     class Solution5 {
         public int[] divisors(int n) {
             int count = 0;
