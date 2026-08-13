@@ -78,3 +78,32 @@ public class UnionTwoSortedArr {
     }
 }
 
+
+//BRUTE FORCE APPROACH
+/*
+import java.util.*;
+
+ class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+
+        ArrayList<Integer> list = new ArrayList<>();
+
+       // Add valid elements from nums1
+       for (int i = 0; i < m; i++) {
+           list.add(nums1[i]);
+     }
+
+        // Add all elements from nums2
+        for (int i = 0; i < n; i++) {
+            list.add(nums2[i]);
+        }
+
+       // Sort
+        Collections.sort(list);
+
+         // Copy back into nums1
+        for (int i = 0; i < list.size(); i++) {
+             nums1[i] = list.get(i);         }
+     }
+ }
+     */
