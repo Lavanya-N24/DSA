@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Lavanya-N24/DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/Lavanya-N24/DSA/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,4 +40,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lavanya-N24/DSA/tree/master/0001-two-sum) |
+| [0242-valid-anagram](https://github.com/Lavanya-N24/DSA/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Lavanya-N24/DSA/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
