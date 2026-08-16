@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Lavanya-N24/DSA/tree/master/0001-two-sum) |
 | [0039-combination-sum](https://github.com/Lavanya-N24/DSA/tree/master/0039-combination-sum) |
+| [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavanya-N24/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Lavanya-N24/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Lavanya-N24/DSA/tree/master/0136-single-number) |
@@ -26,10 +27,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavanya-N24/DSA/tree/master/0088-merge-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavanya-N24/DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/Lavanya-N24/DSA/tree/master/0242-valid-anagram) |
 ## Bit Manipulation
@@ -45,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Lavanya-N24/DSA/tree/master/0242-valid-anagram) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
