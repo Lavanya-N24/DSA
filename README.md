@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Lavanya-N24/DSA/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/Lavanya-N24/DSA/tree/master/0031-next-permutation) |
 | [0039-combination-sum](https://github.com/Lavanya-N24/DSA/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/Lavanya-N24/DSA/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Lavanya-N24/DSA/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Lavanya-N24/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Lavanya-N24/DSA/tree/master/0088-merge-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Lavanya-N24/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
