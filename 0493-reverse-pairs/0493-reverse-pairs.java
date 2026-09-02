@@ -4,7 +4,7 @@ class Solution {
         return mergeSort(nums, 0, nums.length - 1);
     }
 
-    private int mergeSort(int[] nums, int low,int high) {
+    public int mergeSort(int[] nums, int low,int high) {
 
         if (low >=high) {
             return 0;
