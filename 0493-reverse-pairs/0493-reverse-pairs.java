@@ -29,7 +29,7 @@ class Solution {
         return count;
     }
 
-    private int countPairs(int[] nums, int low, int mid, int high) {
+    public int countPairs(int[] nums, int low, int mid, int high) {
 
         int count = 0;
         int j = mid + 1;
@@ -47,7 +47,7 @@ class Solution {
         return count;
     }
 
-    private void merge(int[] nums, int low, int mid, int high) {
+    public void merge(int[] nums, int low, int mid, int high) {
 
         int[] temp = new int[high - low + 1];
 
