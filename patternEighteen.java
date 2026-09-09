@@ -1,4 +1,11 @@
 
+
+// E 
+// D E 
+// C D E 
+// B C D E 
+// A B C D E 
+
 import java.util.Scanner;
 public class patternEighteen {
     public static void main(String[] args) {

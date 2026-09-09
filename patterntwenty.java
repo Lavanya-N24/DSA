@@ -1,30 +1,25 @@
-
-// A 
-// B B 
-// C C C 
-// D D D D 
-// E E E E E
+public class patterntwenty {
+    // E 
+// D E 
+// C D E 
+// B C D E 
+// A B C D E 
 
 import java.util.Scanner;
-public class patternSixteen {
+public class patternEighteen {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         int n = sc.nextInt();
     
        for(int i=0;i<n;i++){
-        char ch=(char)('A'+i);
-        for(int j=0;j<=i;j++){
+        for(char ch=(char)('E'-i);ch<='E';ch++){
             System.out.print(ch+" ");
-           
         }
-        
-          System.out.println();      
-        
-        }
-       
-        sc.close();
-       }
+        System.out.println(); 
     }
-
-
+        sc.close();
+       
+    }
+}
+}

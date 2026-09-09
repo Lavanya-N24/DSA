@@ -1,7 +1,10 @@
+
+
 // *******
 //  *****
 //   ***
-//    *
+//
+
 import java.util.Scanner;
 public class patternEight {
     public static void main(String[] args) {

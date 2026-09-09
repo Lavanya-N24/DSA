@@ -1,10 +1,11 @@
 
-   // A 
-// B B
-// C C C
-// D D D D
 
 
+//     A
+//    ABA
+//   ABCBA
+//  ABCDCBA
+// ABCDEDCBA
 import java.util.Scanner;
 public class patternSeventeen {
     public static void main(String[] args) {

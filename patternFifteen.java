@@ -1,7 +1,5 @@
-// A B C D 
-// A B C 
-// A B 
-// A 
+
+
 
 
 import java.util.Scanner;
