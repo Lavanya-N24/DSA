@@ -5,7 +5,6 @@ public class floorAndCeil {
      return new int[]{floor,ceil};
     }
     private int findFloor(int[] nums,int x){
-      int n=nums.length;
        int low=0;
        int high=nums.length-1;
     int ans=-1;
@@ -23,7 +22,6 @@ public class floorAndCeil {
        return ans;
     }
      private int findCeil(int[] nums,int x){
-      int n=nums.length;
        int low=0;
        int high=nums.length-1;
     int ans=-1;
